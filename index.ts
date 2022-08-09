@@ -1,3 +1,1 @@
-import { Client } from "./src/Client";
-
-export { Client }
+export * as Client from "./src/Client";
