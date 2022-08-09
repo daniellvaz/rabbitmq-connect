@@ -1,1 +1,1 @@
-export * as Client from "./src/Client";
+export { Client } from "./src/Client";
